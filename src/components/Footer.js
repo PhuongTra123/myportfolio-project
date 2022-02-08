@@ -17,13 +17,13 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-lg-4 col-md-6 col-sm-6">
                         <div className="d-flex">
-                            <p>city Moscow Main st 2020 office #223</p>
+                            <p>Tran Thi Phuong Tra</p>
                         </div>
                         <div className="d-flex">
-                            <a href="tel:555-555-555">+7(960)555-5555</a>
+                            <a href="tel:555-555-555">0393581148</a>
                         </div>
                         <div className="d-flex">
-                            <p>8020coding@gmail.com</p>
+                            <p>phuongtracly1998@gmail.com</p>
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-2 col-sm-6">
@@ -48,28 +48,28 @@ const Footer = () => {
                         <div className="d-flex justify-content-center">
                             <FacebookShareButton
                                 url={"https://www.youtube.com/channel/UCEYlA3JkXgCUeOJTLfhG9xg"}
-                                quote={"Fullstack Developer"}
+                                quote={"Frontend Developer"}
                                 hashtag="#javascript"
                             >
                                 <FacebookIcon className="mx-3" size={36}/>
                             </FacebookShareButton>
                             <TwitterShareButton
                                 url={"https://www.youtube.com/channel/UCEYlA3JkXgCUeOJTLfhG9xg"}
-                                quote={"Fullstack Developer"}
+                                quote={"Frontend Developer"}
                                 hashtag="#javascript"
                             >
                                 <TwitterIcon className="mx-3" size={36}/>
                             </TwitterShareButton>
                             <RedditShareButton
                                 url={"https://www.youtube.com/channel/UCEYlA3JkXgCUeOJTLfhG9xg"}
-                                quote={"Fullstack Developer"}
+                                quote={"Frontend Developer"}
                                 hashtag="#javascript"
                             >
                                 <RedditIcon className="mx-3" size={36}/>
                             </RedditShareButton>
                             <LineShareButton
                                 url={"https://www.youtube.com/channel/UCEYlA3JkXgCUeOJTLfhG9xg"}
-                                quote={"Fullstack Developer"}
+                                quote={"Frontend Developer"}
                                 hashtag="#javascript"
                             >
                                 <LineIcon className="mx-3" size={36}/>

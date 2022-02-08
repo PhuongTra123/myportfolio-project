@@ -18,7 +18,6 @@ function App() {
       <AboutMe />
       <Services />
       <Experience />
-      <Portfolio />
       <Testimonials />
       <Contacts />
       <Footer />
