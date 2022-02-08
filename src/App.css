@@ -24,7 +24,8 @@ nav {
 }
 
 .logo {
-  width: 16.25rem;
+  width: 8rem;
+  height: 6.5rem;
 }
 
 /* ------------ MENU LINKS -------------- */
@@ -165,6 +166,7 @@ nav ul li {
 .about-heading {
   color: var(--primary-orange);
   text-transform: uppercase;
+  margin-bottom: 3rem;
 }
 
 @media(max-width: 468px) {
@@ -181,9 +183,10 @@ nav ul li {
 }
 
 .services h1 {
-  color: var(--primary-dark);
+  color: var(--primary-orange);
   text-transform: uppercase;
   padding-top: 3rem;
+  margin-bottom: 2rem;
 }
 
 .services .circle {

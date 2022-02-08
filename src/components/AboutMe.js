@@ -13,14 +13,13 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur nam accusantium quo iusto mollitia ab
-            saepe, numquam illum delectus placeat quibusdam voluptate voluptatem incidunt dignissimos dolore
-            reprehenderit sit excepturi eveniet aperiam rerum repellendus natus sapiente. Assumenda, ab? Ab
-            necessitatibus, eligendi in non vero quidem asperiores veniam impedit sunt consectetur maxime! Architecto
-            nulla a illo, modi atque perferendis error, vero dicta earum aspernatur suscipit alias laborum repellendus
-            odio nisi? Nisi aperiam ex sint itaque possimus ipsa veritatis, ab omnis magnam modi quis exercitationem
-            blanditiis, quasi similique cum repudiandae voluptate, ratione ipsum corporis facilis! Culpa amet explicabo
-            cumque nulla, blanditiis sed ipsa.
+            Welcome to my website. My name is Tran Thi Phuong Tra, currently a final year student at HUFLIT. Although I
+            studied languages in university, during that time, because of my passion for web programming, I actively
+            studied it. Up to now, I have had nearly 1 year of research in the field of Frontend developer. I have
+            learned about programming languages like Javascript, Reactjs and have learned the basics of these languages.
+            In addition, I also learned about HTML, CSS, related knowledge such as Bootstrap, Bithub,... I hope I will
+            have the opportunity to join this company to improve my skills and improve my skills, make a contribution to
+            the company. Sincerely thank!
           </p>
         </div>
       </div>
